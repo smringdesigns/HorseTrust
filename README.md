@@ -1,4 +1,4 @@
-🐎 HorseTrust: A Transparent Marketplace for Equine Sales
+###🐎 HorseTrust: A Transparent Marketplace for Equine Sales
 
 📌 Vertical
 
