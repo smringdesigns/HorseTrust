@@ -1,143 +1,118 @@
-# 🐎 HorseTrust  
-## A Transparent Marketplace for Equine Sales  
+🐎 HorseTrust
+A Transparent Marketplace for Equine Sales
 
-HorseTrust es un marketplace digital enfocado en la compra y venta de caballos con un alto nivel de transparencia, verificación de información y reducción de riesgos para compradores y vendedores.
+HorseTrust es un marketplace digital enfocado en la compra y venta de caballos, diseñado para mejorar la transparencia, verificación de información y reducción de riesgos en transacciones de alto valor.
 
----
+🧭 Descripción general
 
-# 📌 Vertical
-- Product Design  
-- Mobile Development  
-- Web App Development  
+La compra de caballos implica decisiones complejas, altos costos y riesgos significativos.
+Los marketplaces tradicionales operan como simples clasificados, sin mecanismos de validación confiables.
 
-# 🏷️ Sector
-- Marketing Digital / Growth  
-- E-commerce  
-- AgriTech  
-- Marketplace Platforms  
-- FinTech (pagos seguros)  
+HorseTrust introduce un entorno digital basado en confianza, donde la información es verificable y las interacciones son seguras.
 
----
+🧩 Problema
+Falta de transparencia en historial médico
+Información incompleta sobre desempeño
+Dificultad para validar vendedores
+Alto riesgo de fraude
+Procesos de negociación poco seguros
+💡 Solución
+✅ Listados verificados
+Historial veterinario certificado
+Documentación de propiedad
+Identidad validada
+🎥 Pruebas de desempeño
+Videos verificados
+Métricas objetivas
+Evaluaciones técnicas
+🔐 Comunicación segura
+Chat interno
+Registro de interacciones
+Sistema de reputación
+💳 Transacciones protegidas
+Pagos seguros
+Contratos digitales
+Sistema escrow
+🎯 Objetivos
+Reducir el riesgo en la compra de caballos
+Incrementar la confianza del mercado
+Estandarizar la información de los listados
+Digitalizar el proceso de compra
+🧱 Stack Tecnológico
+🎨 Frontend
+Next.js
+React
+TypeScript
+Tailwind CSS
+⚙️ Backend
+Spring Boot
+Spring Security
+JWT Authentication
+🗄️ Base de datos
+MySQL
+Flyway (migraciones)
+🐳 Herramientas
+Docker
+Git
+🧠 Arquitectura
+Frontend (Next.js)
+        ↓
+API REST (Spring Boot)
+        ↓
+Base de Datos (MySQL)
+🗓️ Timeline del Proyecto
 
-# 🗓️ Timeline del Proyecto
-**Semana 2 de 5 — Diseño y validación**
+Duración total: 5 semanas
 
-- S0 → Descubrimiento  
-- S1 → Definición  
-- S2 → Diseño (actual)  
-- S3 → Desarrollo  
-- S4 → Lanzamiento  
+S0 → Descubrimiento
+S1 → Definición
+S2 → Diseño (actual)
+S3 → Desarrollo
+S4 → Lanzamiento
+📦 Entregables — Semana 2
+User Personas
+Customer Journey Map
+Wireframes
+Prototipo interactivo
+Definición del MVP
+📊 Métricas de éxito
+Porcentaje de listados verificados
+Tasa de conversión
+Tiempo promedio de venta
+Net Promoter Score (NPS)
+Número de disputas
+📂 Recursos del Proyecto
+🔗 Links
+Documentación del producto (PRD)
+Roadmap
+Repositorio
+Métricas
+🎨 Diseño
+Design System (Figma)
+Prototipo
+User Journey
+Wireframes
+📁 Archivos
+Presentación
+Actas de reuniones
+Investigación
+Entregables
+🚀 Próximos pasos
+Validación con usuarios reales
+Pruebas de usabilidad
+Definición de arquitectura técnica
+Creación del backlog de desarrollo
+🏷️ Industria y enfoque
+Marketplace Platforms
+E-commerce
+AgriTech
+FinTech (pagos seguros)
+Marketing Digital / Growth
+🤝 Equipo
 
----
+Product • Diseño • Desarrollo • Stakeholders
 
-# 📂 Recursos del Proyecto
+💬 Visión
 
-## 🔗 Links importantes
-- 📄 Documentación del producto (PRD)  
-- 🧪 Research y hallazgos  
-- 🗺️ Roadmap  
-- 💻 Repositorio  
-- 📊 Métricas  
-
-## 🎨 Diseño
-- 🎨 Figma — Design System  
-- 📱 Prototipo  
-- 🧭 User Journey  
-- 🧩 Wireframes  
-
-## 📁 Archivos
-- 📑 Presentación  
-- 📝 Actas de reuniones  
-- 📚 Investigación  
-- 📦 Entregables  
-
----
-
-# 🧭 Descripción general
-
-Comprar un caballo es una transacción de alto costo y alto riesgo.  
-Los marketplaces actuales funcionan como simples anuncios clasificados sin verificación ni garantías.
-
-HorseTrust crea un entorno de alta confianza mediante datos verificados, pruebas de desempeño y comunicación segura.
-
----
-
-# 🧩 Problema
-
-- Falta de transparencia en historial médico  
-- Información incompleta sobre desempeño  
-- Difícil validación de vendedores  
-- Riesgo de fraude  
-- Negociaciones poco seguras  
-
----
-
-# 💡 Solución
-
-## ✅ Verified Listings
-- Historial veterinario certificado  
-- Documentos de propiedad  
-- Identidad verificada  
-
-## 🎥 Pruebas de desempeño
-- Videos verificados  
-- Métricas de rendimiento  
-- Evaluaciones  
-
-## 🔐 Comunicación segura
-- Chat interno  
-- Registro de interacciones  
-- Sistema de reputación  
-
-## 💳 Transacciones seguras
-- Pagos protegidos  
-- Contratos digitales  
-- Escrow  
-
----
-
-# 🎯 Objetivos
-
-1. Reducir el riesgo en la compra de caballos  
-2. Aumentar la confianza del mercado  
-3. Estandarizar la información  
-4. Digitalizar el proceso de compra  
-
----
-
-# 📦 Entregables — Semana 2
-
-- User Personas  
-- Customer Journey Map  
-- Wireframes  
-- Prototipo interactivo  
-- Definición del MVP  
-
----
-
-# 📊 Métricas de éxito
-
-- % de listados verificados  
-- Tasa de conversión  
-- Tiempo de venta  
-- NPS  
-- Número de disputas  
-
----
-
-# 🚀 Próximos pasos
-
-- Validación con usuarios  
-- Pruebas de usabilidad  
-- Arquitectura técnica  
-- Backlog de desarrollo  
-
----
-
-## 🤝 Equipo
-Product • Diseño • Desarrollo • Stakeholders  
-
----
-
-💬 *HorseTrust busca transformar el mercado equino mediante confianza, datos y tecnología.*
+HorseTrust busca transformar el mercado equino mediante transparencia, confianza y tecnología.
 
