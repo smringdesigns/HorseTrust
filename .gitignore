@@ -1,0 +1,69 @@
+# NODE / NEXT.JS (FRONTEND)
+node_modules/
+.next/
+out/
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# JAVA / SPRING BOOT (BACKEND)
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+.gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# SECRETS
+*.env
+
+# IDEs
+
+## VS Code
+.vscode/
+
+## IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+## STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+## NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# SISTEMA OPERATIVO
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# TEMPORALES
+tmp/
+*.log
