@@ -1,6 +1,13 @@
-🐎 HorseTrust
-A Transparent Marketplace for Equine Sales
+💡 Marketplace enfocado en la compra y venta de caballos con verificación, seguridad y transparencia.
+# 🐎 HorseTrust  
+### A Transparent Marketplace for Equine Sales  
 
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens)
+
+---
 HorseTrust es un marketplace digital enfocado en la compra y venta de caballos, diseñado para mejorar la transparencia, verificación de información y reducción de riesgos en transacciones de alto valor.
 
 🧭 Descripción general
