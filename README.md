@@ -89,11 +89,11 @@ Los marketplaces tradicionales operan como simples clasificados sin mecanismos d
 
 # 🧠 Arquitectura
 
-Frontend (Next.js)
-↓
-API REST (Spring Boot)
-↓
-Base de Datos (MySQL)
+- Frontend (Next.js)
+- ↓
+- API REST (Spring Boot)
+- ↓
+- Base de Datos (MySQL)
 
 
 ---
